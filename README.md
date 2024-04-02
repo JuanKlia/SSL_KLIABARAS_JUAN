@@ -4,4 +4,4 @@
  
  Aqui pusheare los trabajos practicos de la cursada 2024.
  
- Estare trabajando con lenguaje C.
+ Estare trabajando con lenguaje C 🖥🖱
